@@ -1,0 +1,15 @@
+.test a{
+    color: #ffffffff;
+    font-size: 25px;
+    font-weight: 30px;
+}
+.test{
+    color: #ffffffff;
+    background-color: #14348E;
+}
+.test p{
+    font-size: 20px;
+}
+.test.offer{
+    font-weight:bold;
+}
